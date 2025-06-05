@@ -46,7 +46,7 @@ Each data entry includes the following fields:
 
 📦 Installation (Optional Toolkit)
 ```bash
-git clone https://github.com/<your-org>/sra-uds.git
+git clone https://github.com/honalele/Subjective-Risk-Annotation-in-Urban-Driving-Scenes.git
 cd sra-uds
 pip install -r requirements.txt
 
